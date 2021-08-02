@@ -2,7 +2,11 @@
 layout: page
 title: "List of Publications"
 ---
-## Published Journals
+
+### Pre-prints
+1. Yumiko Sakamoto, Md. Hosne Al Walid, Fouad Alallah, Kenny Hong, Pourang Irani, **Self-Reporting Individual Movement Data During a Pandemic: Survey Study (Preprint)**, March 2020, DOI: 10.2196/preprints.18704. [Paper Link](https://www.researchgate.net/publication/339917418_Self-Reporting_Individual_Movement_Data_During_a_Pandemic_Survey_Study_Preprint), [News coverage of our research](https://news.umanitoba.ca/um-researchers-develop-app-for-use-in-disease-outbreaks/).
+
+### Published Journals
 
 1. Md. Hosne Al Walid, D. M. Anisuzzaman, A. F. M. Saifuddin Saif, **Data Analysis and Visualization of Continental Cancer Situation by Twitter Scraping**, *International Journal of Modern Education and Computer Science*, ISSN: 2075-0161 (Print), ISSN: 2075-017X (Online), DOI: 10.5815/ijmecs.2019.07.03, Vol. 11, No. 7, July 2019. Published by MECS Press, Hong Kong.
 
@@ -26,11 +30,9 @@ Digital Library. [Paper Link](https://www.caeaccess.org/archives/volume7/number2
 8. Md. Hosne Al Walid, Nafisa Anjum, Umme nur Tubba, Lamia Akter, Zerin Asfad, **Traffic Density Measurement using Image Processing: An SVM approach**, *International Journal of Innovative Research in Computer and Communication Engineering*, Vol. 3, Issue 6, Pages: 4979-4986, June 2015.
 [Paper Link](https://www.ijircce.com/upload/2015/june/2_Traffic.pdf).
 
-## Conference Proceedings
+### Conference Proceedings
 
 1. Md. Tanjim-Al-Akib, Md. Hosne Al Walid, Lutfullahil Kabir Ashik, and Krishanu Chowdhury, **User-modeling and recommendation based on mouse-tracking for e-commerce websites**, *The 19th International Conference on Computer and Information Technology (ICCIT) 2016*, Dhaka, Bangladesh.
 [Paper Link](http://ieeexplore.ieee.org/document/7860252/).
 
-2. Faiyaz Mohammad Saif, Jabin Rubayat, Fahmida Sharmin Pranto, Md. Hosne Al Walid, Kazi Mohammed Shahanur Ahammed, **Facial Expressions Recognition Using Bezier Curve and Performance Analysis Using Ann, Naïve-Bayes and SVM Classifiers**, *14th Global Engineering and Technology Conference*, December 2017, Dhaka, Bangladesh. Published by Global Institute of Science and Technology, 31 Blake Street, Berwick 3806, Melbourne, Victoria, Australia.
-ISBN: 978-1-925488-60-9.
-Paper Link: \url{https://gistworldconpro.com/uploads/10/21/1514528166_508-faiyaz_saif.pdf}
+2. Faiyaz Mohammad Saif, Jabin Rubayat, Fahmida Sharmin Pranto, Md. Hosne Al Walid, Kazi Mohammed Shahanur Ahammed, **Facial Expressions Recognition Using Bezier Curve and Performance Analysis Using Ann, Naïve-Bayes and SVM Classifiers**, *14th Global Engineering and Technology Conference*, December 2017, Dhaka, Bangladesh. Published by Global Institute of Science and Technology, 31 Blake Street, Berwick 3806, Melbourne, Victoria, Australia. ISBN: 978-1-925488-60-9. [Paper Link](https://gistworldconpro.com/uploads/10/21/1514528166_508-faiyaz_saif.pdf).
