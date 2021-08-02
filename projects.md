@@ -11,7 +11,7 @@ title: " List of Projects I worked previously"
 
 **2. COVID-19 Disease Tracking (Mar 2020 – Jun 2020)**<br/>
 **Project description:** In this project, As a member of the development team, I developed an MVP mobile application for disease tracking during COVID-19 for both Android and iPhone. We explored the possibility to use technology to contain highly infectious diseases through GPS data sharing. And our results show that people are, very often, willing to share their GPS data in an effort to contain highly infectious diseases such as COVID-19, as long as their privacy is protected. Our conclusion indicates the great potential to use novel approaches to tackle highly infectious diseases such as COVID-19.<br/>
-![Our developed app](Dis_tracking.png)<br/>
+<img src="Dis_tracking.png" alt="Our developed app" width="200"/> <br/>
 **Programming platform:** Android, Dart (Flutter). [Project Link](http://hci.cs.umanitoba.ca/projects-and-research/details/covid-19-disease-tracking).
 
 **3. Chronic Kidney disease (CKD) Classification from real-life clinical data (Jan 2020 – May 2020)**<br/>
