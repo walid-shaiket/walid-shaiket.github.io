@@ -9,6 +9,11 @@ title: " List of Projects I worked previously"
 **Project description:** In this course project, I focused on text selection and layout, where I developed a customized text selection widget that will offer additional functionality in addition to what generally comes with the default text selection widget in most mobile apps. My developed widget will give users more control over text selection and layout than the default one. The solution is initially designed for Text selection and layout on mobile devices.<br/>
 **Programming platform:** Android, Dart (Flutter).
 
+**2. Custom Selectable Text Widget for Controlled Text Selection in Mobile device (Jan 2021 – Apr 2021)** <br/>
+**Project description:** This project involves applying data mining techniques on COVID-19 data to extract association rules and visualize these rules as a network. We explore the use of association rule networks, where association rules are represented as nodes with edges connecting to items within the rule as a method to extract interesting patterns within a variety of COVID-19 datasets. [This GitHub repository](https://github.com/walid-shaiket/Adv-data-mining-project) includes code and supplementary materials for the project.<br/>
+![data mining project](data_mining_project.png)<br/>
+**Programming platform:** Python, Jupyter Notebook.
+
 **2. COVID-19 Disease Tracking (Mar 2020 – Jun 2020)**<br/>
 **Project description:** In this project, As a member of the development team, I developed an MVP mobile application for disease tracking during COVID-19 for both Android and iPhone. We explored the possibility to use technology to contain highly infectious diseases through GPS data sharing. And our results show that people are, very often, willing to share their GPS data in an effort to contain highly infectious diseases such as COVID-19, as long as their privacy is protected. Our conclusion indicates the great potential to use novel approaches to tackle highly infectious diseases such as COVID-19.<br/>
 ![Our developed app](Dis_tracking.png) <br/>
