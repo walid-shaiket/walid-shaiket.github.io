@@ -27,7 +27,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Email, icon: envelope, url: "walid.iut06@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/md-hosne-al-walid-shaiket-933a6b18a/"}
   - {title: GitHub, icon: github, url: "https://github.com/walid-shaiket"}
-  - {title: Google Scholar, icon: googlescholar, url: "https://scholar.google.com/citations?user=94wuIIQAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=94wuIIQAAAAJ&hl=en"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Hosne-Al-Walid-Shaiket"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
