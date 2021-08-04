@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " List of Projects I worked previously"
+title: " List of Academic and Professional Projects"
 ---
 
 ## Academic Projects
