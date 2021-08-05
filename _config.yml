@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Email, icon: envelope, email:"walid.iut06@gmail.com"}
+  - {title: Email, icon: envelope, url:"mailto:walid.iut06@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url:"https://www.linkedin.com/in/md-hosne-al-walid-shaiket-933a6b18a/"}
   - {title: Facebook, icon: facebook, url:"https://www.facebook.com/shaiket.walid/"}
   - {title: GitHub, icon: github, url:"https://github.com/walid-shaiket"}
