@@ -2,7 +2,7 @@
 layout: page
 title: "List of Publications"
 ---
-##### [Google Scholar](https://scholar.google.com/citations?user=94wuIIQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Hosne-Al-Walid-Shaiket).
+#### [Google Scholar](https://scholar.google.com/citations?user=94wuIIQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Hosne-Al-Walid-Shaiket)
 
 ### Pre-prints
 1. Yumiko Sakamoto, Md. Hosne Al Walid, Fouad Alallah, Kenny Hong, Pourang Irani, **Self-Reporting Individual Movement Data During a Pandemic: Survey Study (Preprint)**, March 2020, DOI: 10.2196/preprints.18704. [News coverage of our research](https://news.umanitoba.ca/um-researchers-develop-app-for-use-in-disease-outbreaks/), [Paper Link](https://www.researchgate.net/publication/339917418_Self-Reporting_Individual_Movement_Data_During_a_Pandemic_Survey_Study_Preprint).
