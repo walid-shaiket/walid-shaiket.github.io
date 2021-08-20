@@ -2,6 +2,14 @@
 layout: page
 title: "Academic and Professional Experience"
 ---
+### Professional Experience
+**Business Intelligence Analyst and Researcher, (June 2020 to Present)** <br/>
+Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
+Health Sector Information, Analysis and Reporting Division (HSIAR).
+
+### Skills
+**Programming and Scripting Languages:** Android, C, C++, C#, Data Analysis eXpressions (DAX), HTML, Java Script, Power Query (M), Python, PL/SQL, PHP, R, SQL, T-SQL.<br/>
+**Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), Tableau, MATLAB, OpenCV, CVIP, CISCO Packet Tracer, Unity.
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science (September 2019 to Present)** <br/> 
@@ -12,15 +20,6 @@ University of Manitoba, Winnipeg, Canada. CGPA: 4.20/4.50 <br/>
 Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 **Merit Position:** In the top 9% of graduating class <br/>
 **Specialization:** Digital Image Processing, Machine Learning.
-
-### Professional Experience
-**Business Intelligence Analyst and Researcher, (June 2020 to Present)** <br/>
-Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
-Health Sector Information, Analysis and Reporting Division (HSIAR).
-
-### Skills
-**Programming and Scripting Languages:** Android, C, C++, C-sharp, Data Analysis eXpressions (DAX), HTML, Java Script, Power Query (M), Python, PL/SQL, PHP, R.<br/>
-**Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), Tableau, MATLAB, OpenCV, CVIP, CISCO Packet Tracer, Unity.
 
 ### Mentionable Awards and Scholarships <br/>
 1. University of Manitoba Graduate Fellowship (UMGF), the most prestigious award in graduate level, 2019-2021. <br/>
