@@ -3,7 +3,7 @@ layout: page
 title: "Academic and Professional Experience"
 ---
 ### Professional Experience
-**Business Intelligence Analyst and Researcher, (June 2020 to Present)** <br/>
+**Business Intelligence Analyst and Researcher (auxiliary appointment), (June 2020 to Present)** <br/>
 Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR).
 
