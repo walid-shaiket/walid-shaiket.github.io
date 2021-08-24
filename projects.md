@@ -2,6 +2,28 @@
 layout: page
 title: " List of Academic and Professional Projects"
 ---
+## Projects with Industry/Government (June 2020 to Present)
+
+**The list of major projects I worked on with the Government of British Columbia, Canada:** <br/>
+
+**1. British  Columbia  COVID-19  Daily  Cases:** This  BI  report contains a  breakdown of daily COVID-19 cases reported by the BC Centre for Disease Control (BCCDC). It also comprises positive cases, hospitalizations, deaths, laboratory tests, and time-series information for all geography levels.<br/>
+
+**2. Daily Monitoring Dashboard for COVID-19 Sites:** This BI report provides break-downs of  COVID-19  immunizations for the  B.C.  population.   The report allows data exploration by geography, age group, and select priority populations.<br/>
+
+**3. British Columbia Emergency Departments:** This BI report provides an overview of ED visits, including patient demographics and waits times as compared to benchmarks set by the Canadian Association of Emergency Physicians.  The purpose of this report is to provide an overview of where EDs are experiencing congestion and capacity issues over time and across triage levels.<br/>
+
+**4. British Columbia Surgical Wait Times:** This BI report allows users to monitor access to surgeries by reviewing surgical indicators.<br/>
+
+**5. Mental Health and Substance Use Service:** The Mental Health and Substance Use Ser-vice, 2018/19 BI report consists of 11 measures.  These measures are reported by sex, age group, health condition, geographic location, and service type (community data only) on an annual basis starting with the fiscal year 2018/19.<br/>
+
+**6. Analysis and Visualization of Patient-Centred Measurement data:**  In this project, I worked on the Emergency Department (ED) survey to show results from a range of survey questions that provides patients’ perspectives on the quality of patient care in emergency departments in the province of British Columbia. The 2018 survey is profiled here. The 2021 survey results will be included by the end of 2021.<br/>
+
+**7. National Health Expenditures:** This BI report visualizes the full National Health Expenditure (NHEX) dataset from the Canadian Institute of Health Information (CIHI), providing a way to quickly search the full data tables and look at health spending trends from 1975-2019. The report is designed to let users quickly compare other jurisdictions’ health spending to British Columbia’s. The NHEX dataset covers public, private, and provincial/territorial government spending across Canada by use of funds and source of finance.<br/>
+
+**8. British Columbia Virtual Care Physician dashboard:** This BI report focuses on the physician provision of virtual care. It summarizes the changes around, and impact of, virtual care before and during (and eventually after) the COVID-19 pandemic. It provides quantifiable information on the provision and impact of virtual care on the health system. This report contains a series of figures and tables summarizing the historical and current state for the use of Virtual Care in B.C.<br/>
+
+**Tools and Languages:** SQL, DAX, Power Query (M), R, Power BI, Visual Studio( to build a tabular model for Analysis Services), and SQL Server Management Studio (to deploy and manage access to tabular models in analysis services).
+
 
 ## Academic Projects
 
@@ -26,25 +48,3 @@ title: " List of Academic and Professional Projects"
 **5. In-situation 3D Data visualization and Interaction using a smart wearable ring (Jan 2020 – Mar 2020)**<br/>
 **Project description:** Wearable technologies, such as watches, rings, and head-worn displays (HWDs) are becoming commonplace nowadays. In this project, we tried to develop a prototype where we are interested to interact and answer some complex queries from a 3D visualization using a smart wearable ring. The main objective was to design some complex and accurate interactions which include analyzing a data set after visualization, perform different actions like selecting, finding patterns, answering some important questions, revealing better insight from a 3D visualization.<br/>
 **Programming platform and Tools:** C#, Unity.
-
-## Projects with Industry/Government (June 2020 to Present)
-
-**The list of major projects I worked on with the Government of British Columbia, Canada:** <br/>
-
-**1. British  Columbia  COVID-19  Daily  Cases:** This  BI  report contains a  breakdown of daily COVID-19 cases reported by the BC Centre for Disease Control (BCCDC). It also comprises positive cases, hospitalizations, deaths, laboratory tests, and time-series information for all geography levels.<br/>
-
-**2. Daily Monitoring Dashboard for COVID-19 Sites:** This BI report provides break-downs of  COVID-19  immunizations for the  B.C.  population.   The report allows data exploration by geography, age group, and select priority populations.<br/>
-
-**3. British Columbia Emergency Departments:** This BI report provides an overview of ED visits, including patient demographics and waits times as compared to benchmarks set by the Canadian Association of Emergency Physicians.  The purpose of this report is to provide an overview of where EDs are experiencing congestion and capacity issues over time and across triage levels.<br/>
-
-**4. British Columbia Surgical Wait Times:** This BI report allows users to monitor access to surgeries by reviewing surgical indicators.<br/>
-
-**5. Mental Health and Substance Use Service:** The Mental Health and Substance Use Ser-vice, 2018/19 BI report consists of 11 measures.  These measures are reported by sex, age group, health condition, geographic location, and service type (community data only) on an annual basis starting with the fiscal year 2018/19.<br/>
-
-**6. Analysis and Visualization of Patient-Centred Measurement data:**  Qualitative analysis and Semantic layer design for the Patient-Centered Measurement (PCM) data to support performance management analytic for the province of British Columbia.<br/>
-
-**7. National Health Expenditures:** This BI report visualizes the full National Health Expenditure (NHEX) dataset from the Canadian Institute of Health Information (CIHI), providing a way to quickly search the full data tables and look at health spending trends from 1975-2019. The report is designed to let users quickly compare other jurisdictions’ health spending to British Columbia’s. The NHEX dataset covers public, private, and provincial/territorial government spending across Canada by use of funds and source of finance.<br/>
-
-**8. British Columbia Virtual Care Physician dashboard:** This BI report focuses on the physician provision of virtual care. It summarizes the changes around, and impact of, virtual care before and during (and eventually after) the COVID-19 pandemic. It provides quantifiable information on the provision and impact of virtual care on the health system. This report contains a series of figures and tables summarizing the historical and current state for the use of Virtual Care in B.C.<br/>
-
-**Tools and Languages:** SQL, DAX, Power Query (M), R, Power BI, Visual Studio( to build a tabular model for Analysis Services), and SQL Server Management Studio (to deploy and manage access to tabular models in analysis services).
