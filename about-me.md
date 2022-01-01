@@ -7,6 +7,11 @@ title: "Academic and Professional Experience"
 Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR).
 
+### Professional Experience
+**Graduate Trainee, Visual and Automated Disease Analytics (VADA) Program, (Sep 2019 to June, 2020)** <br/>
+George & Fay Yee Centre for Healthcare Innovation, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, Canada. <br/>
+Health Sector Information, Analysis and Reporting Division (HSIAR).
+
 ### Skills
 **Programming and Scripting Languages:** Android, C, C++, C#, Data Analysis eXpressions (DAX), HTML, Java Script, Power Query (M), Python, PL/SQL, PHP, R, SQL, T-SQL.<br/>
 **Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), Tableau, MATLAB, SPSS, OpenCV, CVIP, CISCO Packet Tracer, Unity.
@@ -29,7 +34,7 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 5. Dhaka Education Board Merit Scholarship based on Higher Secondary exam result, 2006.
 
 ### Licenses and certifications <br/>
-**1. Visual and Automated Disease Analytics (VADA) Program** <br/>
+**1. \url{} Visual and Automated Disease Analytics (VADA) Program** <br/>
 **Issuing authority:** Natural Sciences and Engineering Research Council of Canada (NSERC)
 **Issued date:** Jun 2020. No Expiration Date. <br/>
 
