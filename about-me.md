@@ -34,9 +34,10 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 5. Dhaka Education Board Merit Scholarship based on Higher Secondary exam result, 2006.
 
 ### Licenses and certifications <br/>
-**1. \url{} Visual and Automated Disease Analytics (VADA) Program** <br/>
+**1. Visual and Automated Disease Analytics (VADA) Program** <br/>
 **Issuing authority:** Natural Sciences and Engineering Research Council of Canada (NSERC)
 **Issued date:** Jun 2020. No Expiration Date. <br/>
+<a href = "https://vada.cs.umanitoba.ca/"> More about VADA program <\a> <br/>
 
 **2. The Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2)** <br/>
 **Issuing authority:** Panel on Research Ethics, Canada
