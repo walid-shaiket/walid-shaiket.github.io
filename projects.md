@@ -4,7 +4,7 @@ title: " List of Academic and Professional Projects"
 ---
 ## Projects with Industry/Government (June 2020 to Present)
 
-**The list of major projects I worked on with the Government of British Columbia in 2020-2021, Canada:** <br/>
+**The list of major projects I worked on with the Government of British Columbia, Canada from Jun 2020 - Dec 2021:** <br/>
 
 **1. British  Columbia  COVID-19  Daily  Cases:** This  BI  report contains a  breakdown of daily COVID-19 cases reported by the BC Centre for Disease Control (BCCDC). It also comprises positive cases, hospitalizations, deaths, laboratory tests, breakthrough analysis of cases by vaccination status, and time-series information for all geography levels.<br/>
 
