@@ -42,7 +42,7 @@ title: " List of Academic and Professional Projects"
 **Programming platform:** Android, Dart (Flutter). [Project Link](http://hci.cs.umanitoba.ca/projects-and-research/details/covid-19-disease-tracking).
 
 **4. Chronic Kidney disease (CKD) Classification from real-life clinical data (Jan 2020 – May 2020)**<br/>
-**Project description:** This is an individual project under the [Visual and Automated Disease Analytics (VADA)](https://vada.cs.umanitoba.ca/) program which is a graduate-level seminar course. This program is a joint initiative between the University of Manitoba and the University of Victoria. As a part of this program, I completed a data science project which includes: I) Data Management Plan, Data dictionary, and Data Quality Report of CKD data set (II)Analysis which includes Cluster analysis, Regression, Classification and Dimension reduction, and (III) Visualization of useful insights using Tableau.<br/>
+**Project description:** This is an individual project under the [Visual and Automated Disease Analytics (VADA)](https://vada.cs.umanitoba.ca/) program which is a graduate-level seminar course. This program is a joint initiative between the University of Manitoba and the University of Victoria. As a part of this program, I completed a data science project which includes: I) Data Management Plan, Data dictionary, and Data Quality Report of CKD data set (II) Analysis which includes Cluster analysis, Regression, Classification and Dimension reduction, and (III) Visualization of useful insights using Tableau.<br/>
 **Programming platform and Tools:** R, Python, and Tableau.
 
 **5. In-situation 3D Data visualization and Interaction using a smart wearable ring (Jan 2020 – Mar 2020)**<br/>
