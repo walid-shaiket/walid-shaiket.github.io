@@ -9,7 +9,7 @@ Health Sector Information, Analysis and Reporting Division (HSIAR).
 
 ### Skills
 **Programming and Scripting Languages:** Android, C, C++, C#, Data Analysis eXpressions (DAX), HTML, Java Script, Power Query (M), Python, PL/SQL, PHP, R, SQL, T-SQL.<br/>
-**Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), Tableau, MATLAB, OpenCV, CVIP, CISCO Packet Tracer, Unity.
+**Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), Tableau, MATLAB, SPSS, OpenCV, CVIP, CISCO Packet Tracer, Unity.
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science (to be completed by Fall 2021)** <br/> 
@@ -27,3 +27,12 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 3. International Graduate Students Entrance Scholarship (IGSES), University of Manitoba, 2019. <br/>
 4. OIC Merit Scholarship during undergraduate studies, 2007-2010.<br/>
 5. Dhaka Education Board Merit Scholarship based on Higher Secondary exam result, 2006.
+
+### Licenses and certifications <br/>
+1. Visual and Automated Disease Analytics (VADA) Program
+**Issuing authority:** Natural Sciences and Engineering Research Council of Canada (NSERC)
+**Issued date:** Jun 2020. No Expiration Date. <br\>
+
+2. The Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2)
+**Issuing authority:** Panel on Research Ethics, Canada
+**Issued date:** Nov 2019, No Expiration Date.
