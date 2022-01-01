@@ -4,8 +4,8 @@ title: "Academic and Professional Experience"
 ---
 ### Professional Experience
 **1. Business Intelligence Analyst and Researcher (auxiliary appointment), June 2020 to Present** <br/>
-Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
-Health Sector Information, Analysis and Reporting Division (HSIAR).
+Health Sector Information, Analysis and Reporting Division (HSIAR) <br/>
+Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada.
 
 **2. Graduate Trainee, Sep 2019 to June, 2020** <br/>
 Visual and Automated Disease Analytics (VADA) Program <br/>
@@ -28,7 +28,7 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 **Specialization:** Digital Image Processing, Machine Learning.
 
 ### Mentionable Awards and Scholarships <br/>
-1. University of Manitoba Graduate Fellowship (UMGF), the most prestigious award in graduate level, 2019-2021. <br/>
+1. University of Manitoba Graduate Fellowship (UMGF), the most prestigious award in graduate level studies, 2019-2021. <br/>
 2. NSERC CREATE (VADA) Fellowship for Educational Purpose, 2019-2020. <br/>
 3. International Graduate Students Entrance Scholarship (IGSES), University of Manitoba, 2019. <br/>
 4. OIC Merit Scholarship during undergraduate studies, 2007-2010.<br/>
