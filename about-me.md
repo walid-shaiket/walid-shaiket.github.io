@@ -41,6 +41,6 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 <a href="https://vada.cs.umanitoba.ca/"> More about the VADA program </a> <br/>
 
 **2. The Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans (TCPS 2)** <br/>
-**Issuing authority:** Panel on Research Ethics, Canada
-**Issued date:** Nov 2019, No Expiration Date.
+**Issuing authority:** Panel on Research Ethics, Canada <br/>
+**Issued date:** Nov 2019, No Expiration Date. <br/>
 <a href="https://ethics.gc.ca/eng/education_tutorial-didacticiel.html"> More about TCPS 2 </a> <br/>
