@@ -8,7 +8,7 @@ Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR).
 
 **2. Graduate Trainee (Sep 2019 to June, 2020)** <br/>
-Visual and Automated Disease Analytics (VADA) Program 
+Visual and Automated Disease Analytics (VADA) Program <br/>
 George & Fay Yee Centre for Healthcare Innovation, Rady Faculty of Health Sciences <br/>
 University of Manitoba, Winnipeg, Canada. <br/>
 <a href="https://vada.cs.umanitoba.ca/"> More about the VADA program </a> <br/>
