@@ -31,7 +31,7 @@ title: " List of Academic and Professional Projects"
 **Project description:** In this course project, I focused on text selection and layout, where I developed a customized text selection widget that will offer additional functionality in addition to what generally comes with the default text selection widget in most mobile apps. My developed widget will give users more control over text selection and layout than the default one. The solution is initially designed for Text selection and layout on mobile devices.<br/>
 **Programming platform:** Android, Dart (Flutter). [source code](https://github.com/walid-shaiket/flutter-engage_selectable-text).
 
-**2. Custom Selectable Text Widget for Controlled Text Selection in Mobile device (Jan 2021 – Apr 2021)** <br/>
+**2. Visualizing Interesting Association Rules from COVID-19 Datasets (Jan 2020 – Apr 2020)** <br/>
 **Project description:** This project involves applying data mining techniques on COVID-19 data to extract association rules and visualize these rules as a network. We explore the use of association rule networks, where association rules are represented as nodes with edges connecting to items within the rule as a method to extract interesting patterns within a variety of COVID-19 datasets. [This GitHub repository](https://github.com/walid-shaiket/Adv-data-mining-project) includes code and supplementary materials for the project.<br/>
 ![data mining project](data_mining_project.PNG)<br/>
 **Programming platform:** Python, Jupyter Notebook.
