@@ -3,11 +3,11 @@ layout: page
 title: "Academic and Professional Experience"
 ---
 ### Professional Experience
-**1. Business Intelligence Analyst and Researcher (auxiliary appointment), (June 2020 to Present)** <br/>
+**1. Business Intelligence Analyst and Researcher (auxiliary appointment), June 2020 to Present** <br/>
 Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada. <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR).
 
-**2. Graduate Trainee (Sep 2019 to June, 2020)** <br/>
+**2. Graduate Trainee, Sep 2019 to June, 2020** <br/>
 Visual and Automated Disease Analytics (VADA) Program <br/>
 George & Fay Yee Centre for Healthcare Innovation, Rady Faculty of Health Sciences <br/>
 University of Manitoba, Winnipeg, Canada. <br/>
@@ -22,7 +22,7 @@ University of Manitoba, Winnipeg, Canada. <br/>
 University of Manitoba, Winnipeg, Canada. CGPA: 4.20/4.50 <br/>
 **Specialization:** Data Science, Business Intelligence, and Healthcare Analytics.
 
-**2. Bachelor of science (B.Sc.) in Computer Science and Information Technology (December 2006 to November 2010)**<br/>
+**2. Bachelor of Science (B.Sc.) in Computer Science and Information Technology, December 2006 to November 2010**<br/>
 Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 **Merit Position:** In the top 9% of graduating class <br/>
 **Specialization:** Digital Image Processing, Machine Learning.
