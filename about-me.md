@@ -18,7 +18,7 @@ University of Manitoba, Winnipeg, Canada. <br/>
 **Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), SPSS, Tableau, MATLAB, OpenCV, CVIP, CISCO Packet Tracer, Unity.
 
 ### Academic Background
-**1. Master of Science (M.Sc.) in Computer Science (to be completed by Fall 2021)** <br/> 
+**1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
 University of Manitoba, Winnipeg, Canada. CGPA: 4.20/4.50 <br/>
 **Specialization:** Data Science, Business Intelligence, and Healthcare Analytics.
 
