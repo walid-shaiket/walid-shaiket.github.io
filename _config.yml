@@ -1,7 +1,7 @@
 title: "MD Hosne Al Walid Shaiket"
 author: "Walid Shaiket"
-
-description: "![University logo](/walid-shaiket.github.io/tree/master/assets/university-of-manitoba-logo.jpg) University of Manitoba"
+![University logo](/walid-shaiket.github.io/tree/master/assets/university-of-manitoba-logo.jpg)
+description: "University of Manitoba"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
