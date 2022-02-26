@@ -3,13 +3,19 @@ layout: page
 title: "Academic and Professional Experience"
 ---
 ### Professional Experience
-**1. Business Intelligence Analyst and Researcher (auxiliary appointment), June 2020 to Present** <br/>
+**1. Data Visualization Analyst, February 2022 to Present** <br/>
+Analytics and Emerging Digital Technologies Team<br/>
+CGI Inc., Canada.<br/>
+
+Job responsibilities: Using visualization & UX best practices in different situations along with developing reporting and visualization solutions utilizing Power BI, Tableau, QlikView, QlikSense, ThouhtSpot, Looker and other modern BI solutions; using advanced visualization features within Power BI: Power BI Embedded Analytics, composite models, Apps, Dashboards, Reports, and Tiles; Using Relational Database Management System (RDMS) and equivalent in a modern cloud environment, Azure Synapse, Snowflake, RedShift, and Oracle Cloud; consuming advanced analytic models and ML model services into Power BI Visualizations; Using DevOps, CI/CD environment with technologies and platforms such as Git, Jenkins, and Docker/Kubernetes.<br/>
+
+**2. Business Intelligence Analyst and Researcher, June 2020 to February 2022** <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR) <br/>
 Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada.<br/>
 
-Job Responsibilities: Writing complex SQL scripts, ETL scripting, Data cleaning and validation, Scripting in R, Preparing Business Requirement Document (BRD) for the stakeholders and end users. Data modeling, Analysis and Visualization in Power BI. Building the tabular model for analysis services, Designing OLAP cubes and deploying using SSMS.<br/>
+Job responsibilities: Writing complex SQL scripts; ETL scripting; Data cleaning and validation; Scripting in R; Preparing Business Requirement Document (BRD) for the stakeholders and end users; Data modeling, Analysis and Visualization in Power BI; Building the tabular model for analysis services; Designing OLAP cubes and deploying using SSMS.<br/>
 
-**2. Graduate Trainee, Sep 2019 to June, 2020** <br/>
+**3. Graduate Trainee, Sep 2019 to June, 2020** <br/>
 Visual and Automated Disease Analytics (VADA) Program <br/>
 George & Fay Yee Centre for Healthcare Innovation, Rady Faculty of Health Sciences <br/>
 University of Manitoba, Winnipeg, Canada. <br/>
@@ -17,7 +23,7 @@ University of Manitoba, Winnipeg, Canada. <br/>
 
 ### Skills
 **Programming and Scripting Languages:** Android, C, C++, C#, Data Analysis eXpressions (DAX), HTML, Java Script, Power Query (M), Python, PL/SQL, PHP, R, SQL, T-SQL. <br/> <br/>
-**Tools:** Power BI, MS SQL server stack (SSAS, SSIS, SSRS), SPSS, Tableau, MATLAB, OpenCV, CVIP, CISCO Packet Tracer, Unity.
+**Tools:** DAX Studio, Power BI, MS SQL server stack (SSAS, SSIS, SSRS), SPSS, SQL Server Managment Studio (SSMS), Tabular Editor, Tableau, MATLAB, OpenCV, Unity.
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
