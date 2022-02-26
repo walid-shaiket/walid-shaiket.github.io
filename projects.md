@@ -2,9 +2,7 @@
 layout: page
 title: " List of Academic and Professional Projects"
 ---
-## Projects with Industry/Government (June 2020 to Present)
-
-**The list of major projects I worked on with the Government of British Columbia, Canada from Jun 2020 - Dec 2021:** <br/>
+## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)<br>
 
 **1. British  Columbia  COVID-19  Daily  Cases:** This  BI  report contains a  breakdown of daily COVID-19 cases reported by the BC Centre for Disease Control (BCCDC). It also comprises positive cases, hospitalizations, deaths, laboratory tests, breakthrough analysis of cases by vaccination status, and time-series information for all geography levels.<br/>
 
@@ -27,7 +25,7 @@ title: " List of Academic and Professional Projects"
 **Tools and Languages:** SQL, DAX, Power Query (M), R, Power BI, Visual Studio (to build a tabular model for Analysis Services), Tabular Editor, and SQL Server Management Studio (to deploy and manage access to tabular models in analysis services).
 
 
-## Academic Projects
+## Academic Projects: During my masters study at the University of Manitoba
 
 **1. Custom Selectable Text Widget for Controlled Text Selection in Mobile device (Jan 2021 – Apr 2021)** <br/>
 **Project description:** In this course project, I focused on text selection and layout, where I developed a customized text selection widget that will offer additional functionality in addition to what generally comes with the default text selection widget in most mobile apps. My developed widget will give users more control over text selection and layout than the default one. The solution is initially designed for Text selection and layout on mobile devices.<br/>
