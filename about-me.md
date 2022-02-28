@@ -5,7 +5,7 @@ title: "Academic and Professional Experience"
 ### Professional Experience
 **1. Data Visualization Analyst, February 2022 to Present** <br/>
 Analytics and Emerging Digital Technologies Team<br/>
-CGI Inc., Canada.<br/>
+CGI Inc., Western Canada.<br/>
 
 Job responsibilities: Using visualization & UX best practices in different situations along with developing reporting and visualization solutions utilizing Power BI, Tableau, QlikView, QlikSense, ThouhtSpot, Looker and other modern BI solutions; using advanced visualization features within Power BI: Power BI Embedded Analytics, composite models, Apps, Dashboards, Reports, and Tiles; Using Relational Database Management System (RDMS) and equivalent in a modern cloud environment, Azure Synapse, Snowflake, RedShift, and Oracle Cloud; consuming advanced analytic models and ML model services into Power BI Visualizations; Using DevOps, CI/CD environment with technologies and platforms such as Git, Jenkins, and Docker/Kubernetes.<br/>
 
