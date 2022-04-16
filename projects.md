@@ -2,7 +2,13 @@
 layout: page
 title: " List of Academic and Professional Projects"
 ---
-## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)<br>
+
+## The list of projects with CGI Inc., Canada (February 2022 to Present)
+
+**1. Modernization of Primary Care Division (PCD)- Ministry of Health, British Columbia (02/22 to 05/22)** <br/>
+As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting.
+
+## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
 
 **1. British  Columbia  COVID-19  Daily  Cases:** This  BI  report contains a  breakdown of daily COVID-19 cases reported by the BC Centre for Disease Control (BCCDC). It also comprises positive cases, hospitalizations, deaths, laboratory tests, breakthrough analysis of cases by vaccination status, and time-series information for all geography levels.<br/>
 
