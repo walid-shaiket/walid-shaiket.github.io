@@ -3,10 +3,12 @@ layout: page
 title: " List of Academic and Professional Projects"
 ---
 
-## The list of projects with CGI Inc., Canada (February 2022 to Present)
+## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones
+**1. Cloud-based Data Solution for seamless Data Integration and Analytics - Lululemon Athletica, Vancouver, British Columbia, Canada, (May 2022 to Present).** <br/>
+As a Data Engineer, I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
-**1. Modernization of Primary Care Division (PCD)- Ministry of Health, British Columbia (02/22 to 05/22)** <br/>
-As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting.
+**2. Modernization of Primary Care Division (PCD)- Ministry of Health, British Columbia (02/22 to 05/22)** <br/>
+As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
 
 ## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
 
