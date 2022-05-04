@@ -24,7 +24,10 @@ University of Manitoba, Winnipeg, Canada. <br/>
 ### Skills
 **Programming Languages:** Android, C, C++, C-sharp, Data Analysis eXpressions (DAX), Power Query (M), PHP, HTML, Java Script, Python, R, PL/SQL, T-SQL. <br/> <br/>
 **Tools:** DAX Studio, Informatica, Power BI, Tableau, R Shiny, SPSS, SQL Server Management Studio (SSMS), Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
-**Platforms:** Azure Cloud, AWS, Azure Synapse, Snowflake.
+**Platforms:** Azure Cloud, AWS, Azure Synapse, Snowflake.<br/>
+
+### Training and Certifications
+1. <a href= "https://www.credly.com/badges/9a6704d0-418d-447d-95a3-8589e1ea5568/linked_in?t=rbdohj"> Hands On Essentials - Data Warehouse </a> (Issued by <a href = "https://www.snowflake.com/"> Snowflake </a> <br/>
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
