@@ -4,7 +4,7 @@ title: " List of Academic and Professional Projects"
 ---
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones
-**1. Cloud-based Data Solution for seamless Data Integration and Analytics - Lululemon Athletica, Vancouver, British Columbia, Canada, (May 2022 to Present).** <br/>
+**1. Cloud-based Solution for seamless Data Integration and Analytics - Lululemon Athletica, Vancouver, British Columbia, Canada, (May 2022 to Present).** <br/>
 As a Data Engineer, I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
 **2. Modernization of Primary Care Division (PCD)- Ministry of Health, British Columbia (02/22 to 05/22)** <br/>
