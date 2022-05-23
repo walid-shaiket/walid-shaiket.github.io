@@ -5,13 +5,13 @@ title: "Academic and Professional Experience"
 ### Professional Experience
 **1. Data Visualization Analyst, February 2022 to Present** <br/>
 Analytics and Emerging Digital Technologies Team<br/>
-CGI Inc., Western Canada.<br/>
+<a href="https://www.cgi.com/en"> CGI Inc. </a>, Western Canada.<br/>
 
 Job responsibilities: Using visualization & UX best practices in different situations along with developing reporting and visualization solutions utilizing Power BI, Tableau, QlikView, QlikSense, ThouhtSpot, Looker and other modern BI solutions; using advanced visualization features within Power BI: Power BI Embedded Analytics, composite models, Apps, Dashboards, Reports, and Tiles; Using Relational Database Management System (RDMS) and equivalent in a modern cloud environment, Azure Synapse, Snowflake, RedShift, and Oracle Cloud; consuming advanced analytic models and ML model services into Power BI Visualizations; Using DevOps, CI/CD environment with technologies and platforms such as Git, Jenkins, and Docker/Kubernetes.<br/>
 
 **2. Business Intelligence Analyst and Researcher, June 2020 to February 2022** <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR) <br/>
-Ministry of Health, Govt. of British Columbia, Victoria, BC, Canada.<br/>
+<a href="https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/health"> Ministry of Health </a>,Govt. of British Columbia, Victoria, BC, Canada.<br/>
 
 Job responsibilities: Writing complex SQL scripts; ETL scripting; Data cleaning and validation; Scripting in R; Preparing Business Requirement Document (BRD) for the stakeholders and end users; Data modeling, Analysis and Visualization in Power BI; Building the tabular model for analysis services; Designing OLAP cubes and deploying using SSMS.<br/>
 
