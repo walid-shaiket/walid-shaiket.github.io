@@ -4,10 +4,19 @@ title: " List of Academic and Professional Projects"
 ---
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones
-**1. Cloud-based Solution for seamless Data Integration and Analytics - Lululemon Athletica Canada Inc., Vancouver, British Columbia, (May 2022 to Present).** <br/>
+
+**1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Winnipeg, Manitoba, Canada:** <br/>
+
+As a Data Engineer, I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to implement the data engineering best practize to build their cloud environment. I also developed the test automation framework to support the data quality process.
+
+**Tools and Platforms:**  SQL server Management Studio, Azure Synapse, Azure DevOps. <br/>
+
+**1. Cloud-based Solution for seamless Data Integration and Analytics - A global retail client in Vancouver, British Columbia, Canada (May 2022 to Present).** <br/>
 As a Data Engineer, I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
-**2. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Ministry of Health, British Columbia (02/22 to 05/22)** <br/>
+**Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
+
+**2. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
 As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
 
 ## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
