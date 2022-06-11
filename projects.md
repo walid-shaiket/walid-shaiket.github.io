@@ -11,12 +11,12 @@ As a Data Engineer, I was responsible to build a data pipeline to transition the
 
 **Tools and Platforms:**  SQL server Management Studio, Azure Synapse, Azure DevOps. <br/>
 
-**1. Cloud-based Solution for seamless Data Integration and Analytics - A global retail client in Vancouver, British Columbia, Canada (May 2022 to Present).** <br/>
+**2. Cloud-based Solution for seamless Data Integration and Analytics - A global retail client in Vancouver, British Columbia, Canada (May 2022 to Present).** <br/>
 As a Data Engineer, I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
 **Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
 
-**2. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
+**3. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
 As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
 
 ## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
