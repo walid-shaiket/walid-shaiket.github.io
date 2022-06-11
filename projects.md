@@ -7,17 +7,17 @@ title: " List of Academic and Professional Projects"
 
 **1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Winnipeg, Manitoba, Canada:** <br/>
 
-As a Data Engineer, I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to implement the data engineering best practize to build their cloud environment. I also developed the test automation framework to support the data quality process.
+**As a Data Engineer,** I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to implement the data engineering best practize to build their cloud environment. I also developed the test automation framework to support the data quality process.
 
 **Tools and Platforms:**  SQL server Management Studio, Azure Synapse, Azure DevOps. <br/>
 
 **2. Cloud-based Solution for seamless Data Integration and Analytics - A global retail client in Vancouver, British Columbia, Canada (May 2022 to Present).** <br/>
-As a Data Engineer, I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
+**As a Data Engineer,** I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
 **Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
 
 **3. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
-As a Data Analyst, I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
+**As a Data Analyst,** I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
 
 ## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
 
@@ -33,7 +33,7 @@ As a Data Analyst, I gathered data requirements identifying data elements along 
 
 **6. Mental Health and Substance Use Service:** The Mental Health and Substance Use Ser-vice, 2018/19 BI report consists of 11 measures.  These measures are reported by sex, age group, health condition, geographic location, and service type (community data only) on an annual basis starting with the fiscal year 2018/19.<br/>
 
-**7. Analysis and Visualization of Patient-Centred Measurement data:**  In this project, I worked on the Emergency Department (ED) survey to show results from a range of survey questions that provides patients’ perspectives on the quality of patient care in emergency departments in the province of British Columbia. The 2018 survey is profiled here. The 2021 survey results will be included by the mid of 2022.<br/>
+**7. Analysis and Visualization of Patient-Centred Measurement data:**  In this project, I worked on the Emergency Department (ED) survey to show results from a range of survey questions that provides patients’ perspectives on the quality of patient care in emergency departments in the province of British Columbia. The 2018 and 2021 surveys are profiled here.<br/>
 
 **8. National Health Expenditures:** This BI report visualizes the full National Health Expenditure (NHEX) dataset from the Canadian Institute of Health Information (CIHI), providing a way to quickly search the full data tables and look at health spending trends from 1975-2019. The report is designed to let users quickly compare other jurisdictions’ health spending to British Columbia’s. The NHEX dataset covers public, private, and provincial/territorial government spending across Canada by use of funds and source of finance.<br/>
 
