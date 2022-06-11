@@ -26,10 +26,6 @@ University of Manitoba, Winnipeg, Canada. <br/>
 **Tools:** Azure Data Studio, Apache Airflow, Informatica, Power BI, Tableau, R Shiny, SPSS, SQL Server Management Studio (SSMS), DAX Studio, Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
 **Platforms:** Azure Cloud, Azure Synapse, Azure Data Factory (ADF), AWS, Snowflake.<br/>
 
-### Training and Certifications
-1. <a href= "https://www.credly.com/badges/9a6704d0-418d-447d-95a3-8589e1ea5568/linked_in?t=rbdohj"> Hands On Essentials - Data Warehouse </a> (Issued by <a href = "https://www.snowflake.com/"> Snowflake </a>) <br/>
-2. <a href= "https://skillsoft.digitalbadges.skillsoft.com/8936f93d-3ab4-4a98-8fdb-95bbd5ca6cf3#gs.2efpg9"> Azure Data Fundamentals: Data Workloads </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
-
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
 University of Manitoba, Winnipeg, Canada. CGPA: 4.20/4.50 <br/>
@@ -40,6 +36,10 @@ University of Manitoba, Winnipeg, Canada. CGPA: 4.20/4.50 <br/>
 Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 **Merit Position:** In the top 9% of graduating class <br/>
 **Specialization:** Digital Image Processing, Machine Learning.
+
+### Training and Certifications
+1. <a href= "https://www.credly.com/badges/9a6704d0-418d-447d-95a3-8589e1ea5568/linked_in?t=rbdohj"> Hands On Essentials - Data Warehouse </a> (Issued by <a href = "https://www.snowflake.com/"> Snowflake </a>) <br/>
+2. <a href= "https://skillsoft.digitalbadges.skillsoft.com/8936f93d-3ab4-4a98-8fdb-95bbd5ca6cf3#gs.2efpg9"> Azure Data Fundamentals: Data Workloads </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
 
 ### Mentionable Awards and Scholarships <br/>
 1. University of Manitoba Graduate Fellowship (UMGF), the most prestigious award in graduate level studies, 2019-2021. <br/>
