@@ -5,13 +5,13 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones
 
-**1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Winnipeg, Manitoba, Canada:** <br/>
+**1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Manitoba, Canada:** <br/>
 
 **As a Data Engineer,** I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to follow the data engineering best practices to build their cloud environment. I also developed the test automation framework to support the data quality process.
 
 **Tools and Platforms:** Azure Synapse, Azure DevOps, SQL server Management Studio. <br/>
 
-**2. Cloud-based Solution for seamless Data Integration and Analytics - A global retail client in Vancouver, British Columbia, Canada (May 2022 to Present).** <br/>
+**2. Cloud-based Solution for seamless Data Integration and Analytics - A global retail company in British Columbia, Canada (May 2022 to Present).** <br/>
 **As a Data Engineer,** I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
 **Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
