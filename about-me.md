@@ -3,7 +3,7 @@ layout: page
 title: "Academic and Professional Experience"
 ---
 ### Professional Experience
-**1. Data Visualization Analyst, February 2022 to Present** <br/>
+**1. Consultant - Analytics and Data Visualization, February 2022 to Present** <br/>
 Analytics and Emerging Digital Technologies Team<br/>
 <a href="https://www.cgi.com/en"> CGI Inc. </a>, Western Canada.<br/>
 
@@ -23,11 +23,12 @@ University of Manitoba, Winnipeg, Canada. <br/>
 
 ### Skills
 **Programming Languages:** Android, C, C++, C-sharp, Data Analysis eXpressions (DAX), Power Query (M), PHP, HTML, Java Script, Python, R, PL/SQL, T-SQL. <br/> <br/>
-**Tools:** Azure Data Factory (ADF), Apache Airflow, Informatica, Power BI, Tableau, R Shiny, SPSS, SQL Server Management Studio (SSMS), DAX Studio, Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
-**Platforms:** Azure Cloud, AWS, Snowflake.<br/>
+**Tools:** Azure Data Studio, Apache Airflow, Informatica, Power BI, Tableau, R Shiny, SPSS, SQL Server Management Studio (SSMS), DAX Studio, Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
+**Platforms:** Azure Cloud, Azure Synapse, Azure Data Factory (ADF), AWS, Snowflake.<br/>
 
 ### Training and Certifications
 1. <a href= "https://www.credly.com/badges/9a6704d0-418d-447d-95a3-8589e1ea5568/linked_in?t=rbdohj"> Hands On Essentials - Data Warehouse </a> (Issued by <a href = "https://www.snowflake.com/"> Snowflake </a>) <br/>
+2. <a href= "https://skillsoft.digitalbadges.skillsoft.com/8936f93d-3ab4-4a98-8fdb-95bbd5ca6cf3#gs.2efpg9"> Azure Data Fundamentals: Data Workloads </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
@@ -47,7 +48,8 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 4. OIC Merit Scholarship during undergraduate studies, 2007-2010.<br/>
 5. Dhaka Education Board Merit Scholarship based on Higher Secondary exam result, 2006.
 
-### Licenses and certifications <br/>
+### Licenses<br/>
+
 **1. Visual and Automated Disease Analytics (VADA) Program** <br/>
 **Issuing authority:** Natural Sciences and Engineering Research Council of Canada (NSERC)<br/>
 **Issued date:** Jun 2020. No Expiration Date. <br/>
