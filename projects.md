@@ -3,7 +3,7 @@ layout: page
 title: " List of Academic and Professional Projects"
 ---
 
-## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones
+## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
 **1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Manitoba, Canada:** <br/>
 
