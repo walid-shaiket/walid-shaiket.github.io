@@ -24,7 +24,7 @@ University of Manitoba, Winnipeg, Canada. <br/>
 ### Skills
 **Programming Languages:** Android, C, C++, C-sharp, Data Analysis eXpressions (DAX), Power Query (M), PHP, HTML, Java Script, Python, R, PL/SQL, T-SQL. <br/> <br/>
 **Tools:** Azure DevOps, Azure Data Studio, Apache Airflow, Informatica, Power BI, Tableau, R Shiny, SPSS, SQL Server Management Studio (SSMS), DAX Studio, Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
-**Platforms:** Azure Cloud, Azure Synapse, Azure Data Factory (ADF), AWS, Snowflake.<br/>
+**Platforms:** Azure Cloud, Azure Synapse, Azure Data Factory (ADF), AWS, SQL Server, Snowflake.<br/>
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
