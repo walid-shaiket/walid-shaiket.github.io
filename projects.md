@@ -5,7 +5,7 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
-**1. Building an effecient data pipeline to migarte the no-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned Canadian security service in Manitoba, Canada:** <br/>
+**1. Building an efficient data pipeline to migrate the on-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned security services in Canada:** <br/>
 
 **As a Data Engineer,** I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to follow the data engineering best practices to build their cloud environment. I also developed the test automation framework to support the data quality process.
 
