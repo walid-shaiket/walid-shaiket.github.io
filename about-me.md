@@ -11,7 +11,7 @@ Job responsibilities: Using visualization & UX best practices in different situa
 
 **2. Business Intelligence Analyst and Researcher, June 2020 to February 2022** <br/>
 Health Sector Information, Analysis and Reporting Division (HSIAR) <br/>
-<a href="https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/health"> Ministry of Health </a>,Govt. of British Columbia, Victoria, BC, Canada.<br/>
+<a href="https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/health"> Ministry of Health </a>, Govt. of British Columbia, Victoria, BC, Canada.<br/>
 
 Job responsibilities: Writing complex SQL scripts; ETL scripting; Data cleaning and validation; Scripting in R; Preparing Business Requirement Document (BRD) for the stakeholders and end users; Data modeling, Analysis and Visualization in Power BI; Building the tabular model for analysis services; Designing OLAP cubes and deploying using SSMS.<br/>
 
