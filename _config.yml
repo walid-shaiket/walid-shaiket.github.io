@@ -1,6 +1,6 @@
 title: "MD Hosne Al Walid Shaiket"
 author: "Walid Shaiket"
-description: "University of Manitoba"
+description: "University of Manitoba" <\br> "CGI Inc."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
