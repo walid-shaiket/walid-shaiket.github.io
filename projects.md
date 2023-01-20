@@ -5,7 +5,7 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
-**1. Converting the Business Objects (BO) into Business Intelligence reports using Power BI and Power BI report builder - One of the world's largest energy company and natural gas producer in Canada (July 2022 to December 2022).** <br/>
+**1. Converting the Business Objects (BO) into Business Intelligence reports using Power BI and Power BI report builder - One of the world's largest energy company and natural gas producer in Canada (July 2022 to February 2023).** <br/>
 
 **As a Business Intelligence Developer,** I was responsible to build Business Intelligence Reports out of the current Business Objects (BO) to support various analytics projects. I followed the data visualization and data modeling best practices to build the Power BI and paginated reports out of the on-prem Oracle database.
 
