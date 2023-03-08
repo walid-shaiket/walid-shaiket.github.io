@@ -44,6 +44,7 @@ Islamic University of Technology (IUT), Dhaka. Bangladesh. CGPA: 3.89/4.0 <br/>
 4. <a href= "https://skillsoft.digitalbadges.skillsoft.com/c5dfc642-3fce-4198-9c9c-9e36a5173d11#gs.c6qxzp"> AWS Solutions Architect Associate 2022: Compute & Data Analysis Services </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
 5. <a href= "https://skillsoft.digitalbadges.skillsoft.com/ae105e0e-3b48-4158-ba1e-11f01c79aaf4"> Advanced Analytics: Performing Analytics Using Snowflake </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
 6. <a href= "https://skillsoft.digitalbadges.skillsoft.com/1281fc6e-490d-4134-ae34-51fdc18deb13#gs.fx9vnc"> Techniques for Big Data Analytics </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
+7. 6. <a href= "https://skillsoft.digitalbadges.skillsoft.com/e7608464-de1c-4233-9ffa-2d0209757950#gs.s0w9il"> Azure Data Fundamentals: Data Analytics </a> (Issued by <a href = "https://www.skillsoft.com/"> Skillsoft </a>) <br/>
 
 ### Mentionable Awards and Scholarships <br/>
 1. University of Manitoba Graduate Fellowship (UMGF), the most prestigious award in graduate level studies, 2019-2021. <br/>
