@@ -5,24 +5,30 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
-**1. Converting the Business Objects (BO) into Business Intelligence reports using Power BI and Power BI report builder - One of the world's largest energy company and natural gas producer in Canada (July 2022 to February 2023).** <br/>
+**1. Primary Care Division BI Modernization (Phase-2) - Ministry of Health, Govt. of British Columbia, Canada. (Mar 2023 to Jun 2023).** <br/>
+
+**As a Data Developer,** I was responsible for development of a customized data ingestion tool (CHEFS) for Ministry of Health which will reduce manual effort of data submission, increase report delivery speed, improve ability to meet ad-hoc BI requests, improve data accuracy, and enable historical business intelligence with context.
+
+**Tools and Platforms:** Java Script, Power BI, Power BI report server. <br/>
+
+**2. Converting the Business Objects (BO) into Business Intelligence reports using Power BI and Power BI report builder - One of the world's largest energy company and natural gas producer in Canada (July 2022 to February 2023).** <br/>
 
 **As a Business Intelligence Developer,** I was responsible to build Business Intelligence Reports out of the current Business Objects (BO) to support various analytics projects. I followed the data visualization and data modeling best practices to build the Power BI and paginated reports out of the on-prem Oracle database.
 
 **Tools and Platforms:** Power BI, Power BI report builder. <br/>
 
-**2. Building an efficient data pipeline to migrate the on-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned security services in Canada (May 2022 to July 2022)** <br/>
+**3. Building an efficient data pipeline to migrate the on-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned security services in Canada (May 2022 to July 2022)** <br/>
 
 **As a Data Engineer,** I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to follow the data engineering best practices to build their cloud environment. I also developed the test automation framework to support the data quality process.
 
 **Tools and Platforms:** Azure Synapse, SQL Server, Azure DevOps, SQL server Management Studio. <br/>
 
-**3. Cloud-based Solution for seamless Data Integration and Analytics - A global retail company in British Columbia, Canada (May 2022 to June 2022).** <br/>
+**4. Cloud-based Solution for seamless Data Integration and Analytics - A global retail company in British Columbia, Canada (May 2022 to June 2022).** <br/>
 **As a Data Engineer,** I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved to retire their current Enterprise Landing Area (ELA) in Oracle and migrate everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation, and finally proposed an overall cloud-based solution using Snowflake to leverage it's power for seamless analysis and reporting.
 
 **Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
 
-**4. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
+**5. Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics- Govt. of British Columbia, Canada (02/22 to 05/22)** <br/>
 **As a Data Analyst,** I gathered data requirements identifying data elements along with its source, created a flow to clearly show how the data is coming into the system, generated the current and future process flows to show the current state and what can be improved. I also identified gaps requiring resolution for better data streamlining and automated validation, suggested an ETL/Ingestion tool for data transformation and validation, and proposed an overall solution to leverage the Business Intelligence (BI) technology for automatic analysis and reporting. <br/>
 
 ## The list of projects with the Government of British Columbia, Canada (June 2020 to February 2022)
