@@ -17,7 +17,7 @@ title: " List of Academic and Professional Projects"
 
 **Tools and Platforms:** Power BI, Power BI report builder. <br/>
 
-**3. Building an efficient data pipeline to migrate the on-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned security services in Canada (May 2022 to July 2022)** <br/>
+**3. Building an efficient data pipeline to migrate the on-prem data to cloud and developing a test automation framework to support DevOps and data quality - A renowned security services in Canada (May 2022 to July 2022).** <br/>
 
 **As a Data Engineer,** I was responsible to build a data pipeline to transition the on-prem data to cloud environment to support their analytics projects. I had to follow the data engineering best practices to build their cloud environment. I also developed the test automation framework to support the data quality process.
 
