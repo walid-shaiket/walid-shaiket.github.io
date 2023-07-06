@@ -5,7 +5,7 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
-**1. Primary Care Division BI Modernization (Phase-2) - Ministry of Health, Govt. of British Columbia, Canada. (Mar 2023 to Jun 2023).** <br/>
+**1. Primary Care Division BI Modernization (Phase-2) - Ministry of Health, Govt. of British Columbia, Canada. (Mar 2023 to Sep 2023).** <br/>
 
 **As a Data Developer,** I was responsible for development of a customized data ingestion tool (CHEFS) for Ministry of Health which will reduce manual effort of data submission, increase report delivery speed, improve ability to meet ad-hoc BI requests, improve data accuracy, and enable historical business intelligence with context.
 
