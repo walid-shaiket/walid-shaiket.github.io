@@ -1,6 +1,6 @@
 title: "MD Hosne Al Walid Shaiket"
 author: "Walid Shaiket"
-description: "University of Manitoba"
+description: "CGI Inc - Information Technology Consulting and Software Development Company"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,14 +20,15 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "about-me.md", title: About Me}
   - {file: "projects.md", title: Projects}
   - {file: "publications.md", title: Publications}
-  - {url: "https://walid-shaiket.github.io/Resume_Walid.pdf", title: CV}
+  - {url: "https://walid-shaiket.github.io/Resume_of_Walid.pdf", title: CV}
   - {file: "blog.md", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Email, icon: envelope, url: "mailto:walid.iut06@gmail.com"}
+  - {title: Email, icon: envelope, url: "walid.iut06@gmail.com"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/md-hosne-al-walid-shaiket-933a6b18a/"}
   - {title: Facebook, icon: facebook, url: "https://www.facebook.com/shaiket.walid/"}
   - {title: GitHub, icon: github, url: "https://github.com/walid-shaiket"}
+  - {title: Google Scholar, icon: Scholar }
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
