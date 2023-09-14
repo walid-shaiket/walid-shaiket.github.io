@@ -5,7 +5,7 @@ Title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present) -  Starting with the most recent ones:
 
-**1. Building Data Analytics Solution using the Provincial Attachment System (PAS) data - Ministry of Health, Govt. of British Columbia, Canada. (Sep 2023 -- Mar 2024).** <br/>
+**1. Building Data Analytics Solution using the Provincial Attachment System (PAS) data - Ministry of Health, Govt. of British Columbia, Canada. (Sep 2023 to Mar 2024).** <br/>
 
 **As a Business Intelligence Developer,** I was responsible for the development of a data analytics solution using the Provincial Attachment System (PAS) data. Through this solution, the province of B.C. will have a comprehensive list of who is looking for a primary-care provider and who already has one, as well as which providers and clinics can accept new patients.
 
