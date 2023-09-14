@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: " List of Academic and Professional Projects"
+title: " List of Academic and Professional Projects"
 ---
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present):
