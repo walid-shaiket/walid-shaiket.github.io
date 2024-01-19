@@ -5,7 +5,7 @@ title: " List of Academic and Professional Projects"
 
 ## The list of projects with CGI Inc., Canada (February 2022 to Present):
 
-**1. Ministry of Health (B.C.), Canada - Building Data Analytics Solution using the Provincial Attachment System (PAS) data (Sep 2023 to Mar 2024).** <br/>
+**1. Ministry of Health (B.C.), Canada - Building Data Analytics Solution using the Provincial Attachment System (PAS) data to support patient-doctor attachment requests management (Sep 2023 to Mar 2024).** <br/>
 
 **As a Business Intelligence Developer,** I was responsible for the development of a data analytics solution using the Provincial Attachment System (PAS) data. Through this solution, the province of B.C. will have a comprehensive list of who is looking for a primary-care provider and who already has one, as well as which providers and clinics can accept new patients.
 
@@ -81,5 +81,5 @@ title: " List of Academic and Professional Projects"
 **Programming platform and Tools:** R, Python, and Tableau.
 
 **5. In-situation 3D Data visualization and Interaction using a smart wearable ring (Jan 2020 – Mar 2020)**<br/>
-**Project description:** Wearable technologies, such as watches, rings, and head-worn displays (HWDs) are becoming commonplace nowadays. In this project, we tried to develop a prototype where we are interested to interact and answer some complex queries from a 3D visualization using a smart wearable ring. The main objective was to design some complex and accurate interactions which include analyzing a data set after visualization, perform different actions like selecting, finding patterns, answering some important questions, revealing better insight from a 3D visualization.<br/>
+**Project description:** Wearable technologies, such as watches, rings, and head-worn displays (HWDs) are becoming commonplace nowadays. In this project, we tried to develop a prototype where we are interested to interact and answer some complex queries from a 3D visualization using a smart wearable ring. The main objective was to design some complex and accurate interactions which include analyzing a data set after visualization, performing different actions like selecting, finding patterns, answering some important questions, and revealing better insight from a 3D visualization.<br/>
 **Programming platform and Tools:** C#, Unity.
