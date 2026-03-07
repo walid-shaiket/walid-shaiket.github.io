@@ -22,9 +22,9 @@ University of Manitoba, Winnipeg, Canada. <br/>
 <a href="https://vada.cs.umanitoba.ca/"> More about the VADA program </a> <br/>
 
 ### Skills
-**Programming Languages:** Android, C, C++, C-sharp, Data Analysis eXpressions (DAX), Power Query (M), PHP, HTML, Java Script, Python, R, PL/SQL, T-SQL. <br/> <br/>
-**Tools:** Azure DevOps, Azure Data Studio, Apache Airflow, Informatica, Power BI, Tableau, R Shiny, SSRS, SSIS, SPSS, SQL Server Management Studio (SSMS), DAX Studio, Tabular Editor, MATLAB, OpenCV, Unity. <br/> <br/>
-**Platforms:** Azure Cloud, Azure Synapse, Azure Data Factory (ADF), AWS, SQL Server, Snowflake.<br/>
+**Programming Languages:** C-sharp, .NET, Data Analysis eXpressions (DAX), Power Query (M), Java, Java Script, Python, R, Shiny, React, PL/SQL, T-SQL.<br/> <br/>
+**Tools:** Azure DevOps, Oracle APEX, Power BI, Power BI Report Builder, Tableau, R-studio, SSRS, Spotfire. <br/> <br/>
+**Platforms:** AWS, Azure Cloud, Azure Synapse, Azure Data Factory, Azure SQL DB, Databricks, Snowflake, Microsoft Fabric, Microsoft Power Platform, ServiceNow.<br/>
 
 ### Academic Background
 **1. Master of Science (M.Sc.) in Computer Science, September 2019 to December 2021** <br/> 
