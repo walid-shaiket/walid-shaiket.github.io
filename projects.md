@@ -3,7 +3,7 @@ layout: page
 title: " List of Academic and Professional Projects"
 ---
 
-## The list of projects with CGI Inc., Canada (February 2022 to Present):
+## Selected projects with CGI Inc., Canada (February 2022 to Present): Starting from the most recent ones
 
 **8. Ovintiv Inc., Alberta, Canada - Application Developer (06/25 to present).** <br/>
 **As an Application Developer,** Walid is responsible for building and maintaining new applications using Microsoft Power Platform (Power App, Power Automate), fixing bugs and building new features for applications developed in R, Shiny, Python, Java, and .NET. Also, Walid is responsible for the testing and QA of applications using the automated Python scripts, and SonarQube.
@@ -13,32 +13,23 @@ title: " List of Academic and Professional Projects"
 Development Tools and Languages: SQL, Oracle, APEX, ChatGPT, Git.
 
 **6. Ministry of Health (B.C.), Canada - Building Data Analytics Solution using the Provincial Attachment System (PAS) data to manage patient-doctor attachment requests (Sep 2023 to Mar 2024).** <br/>
-
 **As a Business Intelligence Developer,** I was responsible for the development of a data analytics solution using the Provincial Attachment System (PAS) data. Through this solution, the province of B.C. will have a comprehensive list of who is looking for a primary-care provider and who already has one, as well as which providers and clinics can accept new patients.
-
 **Tools and Platforms:** Java Script, Power BI, Power BI report server. <br/>
 
 **5. Ministry of Health (B.C.), Canada - Primary Care Division BI Modernization (Phase-2): Development of a customized data ingestion tool using the CHEFS platform to enhance data collection accuracy (Mar 2023 to Sep 2023).** <br/>
-
 **As a Data Developer,** I was responsible for the development of a customized data ingestion tool (CHEFS) for the Ministry of Health which will reduce the manual effort of data submission, increase report delivery speed, improve the ability to meet ad-hoc BI requests, improve the data accuracy, and enable historical business intelligence with context.
-
 **Tools and Platforms:** Java Script, Power BI, Power BI report server. <br/>
 
 **4. Ovintiv Inc., Canada  - Converting the SAP Business Objects (BO) into Business Intelligence reports using Power BI and Power BI report builder (July 2022 to February 2023).** <br/>
-
 **As a Business Intelligence Developer,** I was responsible for building Business Intelligence Reports out of the current Business Objects (BO) to support various analytics projects. I followed the data visualization and data modeling best practices to build the Power BI and paginated reports out of the on-prem Oracle database.
-
 **Tools and Platforms:** Power BI, Power BI report builder. <br/>
 
 **3. Paladin Security Group Ltd, Canada - Building an efficient data pipeline to migrate the on-prem data to the cloud and developing a test automation framework to support DevOps and data quality (May 2022 to July 2022).** <br/>
-
 **As a Data Engineer,** I was responsible for building a data pipeline to transition the on-prem data to a cloud environment to support their analytics projects. I had to follow the data engineering best practices to build their cloud environment. I also developed the test automation framework to support the data quality process.
-
 **Tools and Platforms:** Azure Synapse, SQL Server, Azure DevOps, SQL Server Management Studio. <br/>
 
 **2. Lululemon Athletica Canada Inc. - Cloud-based Solution for Seamless Data Integration and Analytics (May 2022 to June 2022).** <br/>
 **As a Data Engineer,** I gathered data requirements identifying the current scopes for a better cloud-based data solution, I was involved in retiring their current Enterprise Landing Area (ELA) in Oracle and migrating everything to Snowflake. I also suggested a better pipeline of ETL/Ingestion for data transformation and validation and finally proposed an overall cloud-based solution using Snowflake to leverage its power for seamless analysis and reporting.
-
 **Tools and Platforms:** Informatica, Snowflake, Apache Airflow, Jenkins, Power BI. <br/>
 
 **1. Ministry of Health (B.C.), Canada - Modernization of Primary Care Division (PCD) to leverage the Business Intelligence for effective analytics (02/22 to 05/22)** <br/>
@@ -67,7 +58,7 @@ Development Tools and Languages: SQL, Oracle, APEX, ChatGPT, Git.
 **Tools and Languages:** SQL, DAX, Power Query (M), R, Power BI, Visual Studio (to build a tabular model for Analysis Services), Tabular Editor, and SQL Server Management Studio (to deploy and manage access to tabular models in analysis services).
 
 
-## Academic Projects: During my master's study at the University of Manitoba
+## Selected Academic Projects: During my master's study at the University of Manitoba
 
 **1. Custom Selectable Text Widget for Controlled Text Selection in Mobile Device (Jan 2021 – Apr 2021)** <br/>
 **Project description:** In this course project, I focused on text selection and layout, where I developed a customized text selection widget that will offer additional functionality in addition to what generally comes with the default text selection widget in most mobile apps. My developed widget will give users more control over text selection and layout than the default one. The solution is initially designed for Text selection and layout on mobile devices.<br/>
